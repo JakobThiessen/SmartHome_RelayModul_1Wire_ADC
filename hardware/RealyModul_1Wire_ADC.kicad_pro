@@ -371,7 +371,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EMS_BUS.kicad_pro",
+    "filename": "RealyModul_1Wire_ADC.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -452,6 +452,14 @@
     [
       "c4e39846-6145-4bd7-b8ac-da1f187fdeed",
       ""
+    ],
+    [
+      "f92c1ee3-e27e-4758-af3a-f1874647834e",
+      "Relay"
+    ],
+    [
+      "64f621fb-44be-4584-9fdb-ca5be971c19a",
+      "Input"
     ]
   ],
   "text_variables": {}
