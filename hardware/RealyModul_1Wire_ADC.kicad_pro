@@ -470,7 +470,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "RealyModul_1Wire_ADC.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
