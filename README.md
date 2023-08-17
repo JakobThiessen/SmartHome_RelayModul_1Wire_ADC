@@ -1,5 +1,6 @@
 # SmartHome_RelayModul_1Wire_ADC
 
+beachte Änderungen in [Hardwarebeschreibung](hardware/readme.md)
 
 <img src="hardware/RealyModul_1Wire_ADC.jpg" width="600">
 <img src="hardware/RealyModul_1Wire_ADC_top.jpg" width="600">
