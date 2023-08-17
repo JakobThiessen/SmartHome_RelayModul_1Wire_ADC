@@ -5,3 +5,9 @@
 # Bauteile
 
 # Verdrahtungsplan
+
+# Änderungen
+
+
+
+IO12 kein PullUp
